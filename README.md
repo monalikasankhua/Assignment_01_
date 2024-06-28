@@ -1,1 +1,52 @@
-# Assignment_01_
+RESUME
+Monalika Sankhua
+Masters of Computer Applications
+Phone: 8144491805
+Email: smonalika019@gmail.com
+
+OBJECTIVE
+A hard working individual looking for a challenging position where I can showcase my skills and contribute to the growth of the organization. 
+
+EDUCATION
+MCA
+Jyoti Nivas College Autonomous, Bangalore
+2023 - 2025
+Masters of Computer Application
+Pursuing
+
+BSC
+Fakir Mohan University,Odisha.
+2019 - 2022
+Bachelors of Science in Mathematics
+Percentage: 75.50
+
+PUC
+Sriman science higher secondary school
+2017 - 2019
+PUC (CHSE), Higher secondary education ,Odisha
+Percentage: 59.50
+
+SSLC
+Telipal high school,Telipal,Odisha
+2017
+SSLC, HSC
+Percentage: 64
+
+LANGUAGE
+English, Hindi, Odia.
+
+SKILLS
+HTML,C, Java, Microsoft Word, SQL, Microsoft PowerPoint, Android, Python,PGDCA.
+
+PROJECTS
+Mini Project on Wholesale Management for Windows Applications.
+Android Project on AI tools.
+
+CERTIFICATE
+Computer course(PGDCA).
+
+HOBBIES
+Badminton, Listening music, Painting.
+
+DECLARATIONS
+I hereby declare that above furnished information are true to the best of my knowledge.
