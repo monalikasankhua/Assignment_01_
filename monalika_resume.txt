@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> My Resume</title>
+</head>
+<body>
+    <h1> My Resume</h1>
+    <header>
+        <h1>Monalika Sankhua</h1>
+        <p>Email:  monalikasankhua.23mca@Jyotinivas.org</p>
+         <p>Pursuing Master of Computer Application</p>
+        <p>Contact Number: 8144491805</p>
+        <p>Address: Bangalore</p>
+    </header>
+
+    <section>
+        <h2>Objective</h2>
+        <p>A hard working individual looking for a challenging position where
+             I can showcase my skills and contribute to the growth of the organization .</p>
+    </section>
+
+    <section>
+        <h2>Education</h2>
+            <h3>Jyoti Nivas College Autonomous, Bangalore</h3>
+            <p>2023-2025<br>Masters of Computer Application(MCA) (Pursuing)</p>
+            <h3>Fakir Mohan University,Odisha.</h3>
+            <p>2019-2022<br>Bachelors of Science in Mathematics<br>Percentage:76</p>
+            <h3>Sriman science higher secondary school(pu)</h3>
+            <p>2017-2019<br>CHSE<br>Percentage: 60</p>
+            <h3>Telipal high school,Telipal,Odisha</h3>
+            <p>2017<br>SSLC<br>Percentage: 65</p>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <ul class="skills">
+            <li>C</li>
+            <li>C++</li>
+            <li>Java</li>
+            <li>HTML</li>
+            <li>MySQL</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Projects</h2>
+       
+            <h3>Wholesale Management</h3>
+            <p>Front End: PHP, HTML, CSS</p>
+       <p><li>Back End: MySQL</li></p>
+            
+    </section>
+
+    <section>
+        <h2>Languages Known</h2>
+        <ul>
+            <li>English</li>
+            <li>ODIA</li>
+            <li>Hindi</li>
+            
+        </ul>
+    </section>
+    <section>
+        <h2>Interests</h2>
+        <ul>
+            <li>Face Sketching</li>
+            <li>Drawing</li>
+            <li>Painting</li>
+            <li>speed writing</li>
+            <li>playing bedminton</li>
+
+        </ul>
+    </section>
+    
+
+    <footer>
+        <h2>Declaration</h2>
+        <p>I hereby declare that the above furnished information is true to the best of my knowledge.</p>
+    </footer>
+</body>
+</html>
